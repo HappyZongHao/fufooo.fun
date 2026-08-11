@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="768" viewBox="0 0 768 768">
+  <title>FUFOOO Ribbon F icon</title>
+  <desc>Protected FUFOOO Ribbon master with outer placement only.</desc>
+  <defs>
+    <linearGradient id="upper-gradient" x1="343" y1="333" x2="961" y2="182" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0785FF"/>
+      <stop offset="0.24" stop-color="#316FF8"/>
+      <stop offset="0.50" stop-color="#6254F5"/>
+      <stop offset="0.76" stop-color="#9143ED"/>
+      <stop offset="1" stop-color="#C23BE0"/>
+    </linearGradient>
+
+    <linearGradient id="lower-gradient" x1="378" y1="850" x2="866" y2="425" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12C7A4"/>
+      <stop offset="0.21" stop-color="#91C83F"/>
+      <stop offset="0.39" stop-color="#F0B52F"/>
+      <stop offset="0.61" stop-color="#F28A32"/>
+      <stop offset="0.82" stop-color="#F06450"/>
+      <stop offset="1" stop-color="#E34C72"/>
+    </linearGradient>
+  <g id="mark" shape-rendering="geometricPrecision">
+    <path id="upper-ribbon" fill="url(#upper-gradient)" d="
+      M 509 182 H 937 C 952 182 961 192 961 208
+      C 960 241 944 273 920 296 C 897 318 866 333 835 333
+      H 509 C 461 333 420 351 390 382 C 368 405 351 439 343 482
+      V 341 C 343 253 417 182 509 182 Z"/>
+    <path id="lower-ribbon" fill="url(#lower-gradient)" d="
+      M 515 417 H 874 C 884 417 890 424 889 435
+      C 885 469 869 501 843 524 C 820 545 788 558 754 558
+      H 561 C 527 558 499 586 499 621 V 747
+      C 499 811 452 864 389 874 C 374 877 365 870 365 855
+      L 360 584 C 360 492 429 417 515 417 Z"/>
+  </g>
+  </defs>
+  <g transform="translate(98.2 64) scale(0.924855) translate(-343 -182)">
+    <use href="#mark"/>
+  </g>
+</svg>
