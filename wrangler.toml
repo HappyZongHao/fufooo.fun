@@ -1,0 +1,8 @@
+name = "Fufoo-fun"
+account_id = "0d267d617cc16520910c8e73516dd58f"
+workers_dev = true
+compatibility_date = "2026-08-11"
+main = "src/index.js"
+
+[assets]
+directory = "./public"
